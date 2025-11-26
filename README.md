@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m a Full Stack Developer and I’ve built VibeChat – a real-time chat app using the Next.JS<br>🌱 Currently diving deeper into React.js, Node.js, and Next.js to build faster and scalable web applications.<br>👨‍💻 All of my projects are available at My Portfolio <a href="abdulrasheedtalal.netlify.app">Click To Visit</a> <br>💬 Ask me about JavaScript, MERN stack, MySQL, MongoDB, React, and building backend systems.<br>🧠 Currently learning: TypeScript, and AI integrations.<br>🛠️ I love solving real-world problems through code and intuitive UX/UI.<br>🎯 2025 Goal: Build scalable SaaS projects and contribute to open source.<br>🧩 Fun fact: I enjoy chess ♟️, philosophy, and deep convos about life.
+🔭 I’m a Full Stack Developer and I’ve built VibeChat – a real-time chat app using the Next.JS<br>🌱 Currently diving deeper into React.js, Node.js, and Next.js to build faster and scalable web applications.<br>👨‍💻 All of my projects are available at My Portfolio <a href="https://abdulrasheedtalal.netlify.app">Click To Visit</a> <br>💬 Ask me about JavaScript, MERN stack, MySQL, MongoDB, React, and building backend systems.<br>🧠 Currently learning: TypeScript, and AI integrations.<br>🛠️ I love solving real-world problems through code and intuitive UX/UI.<br>🎯 2025 Goal: Build scalable SaaS projects and contribute to open source.<br>🧩 Fun fact: I enjoy chess ♟️, Martial Arts 🥋, philosophy, and deep convos about life.
 
 
 ## 🌐 Socials:
