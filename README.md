@@ -46,12 +46,11 @@
 
 ## 📈 GitHub Analytics
 
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+  <div align="center">
+ ![](https://github-readme-stats.vercel.app/api?username=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </div>
 
 
 ## 🌐 Connect With Me
