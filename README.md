@@ -46,7 +46,6 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
   
@@ -54,7 +53,6 @@
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rasheed-Talal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-</div>
 
 ## 🌐 Connect With Me
 
