@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Web Developer | Programmer | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=520&lines=Always+learning+something+new...;Love+to+code+and+create+cool+stuff!;Let's+build+something+great+together!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=520&lines=Always+learning+something+new...;Love+to+code+and+create+cool+stuff!;Love+to+solve+critical+problems+and+bugs!+💻;Let's+build+something+great+together!+💻" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
