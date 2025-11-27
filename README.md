@@ -14,7 +14,7 @@
 - 💬 **Ask me about**: JavaScript, MERN stack, React, Node.js, and database design
 - 📫 **Reach me**: mabdulrasheedtalal@gmail.com
 - 🎯 **2025 Goals**: Contribute to open source & build scalable SaaS products
-- ⚡ **Fun fact**: Chess enthusiast ♟️ | Martial Arts practitioner 🥋 | Philosophy lover
+- ⚡ **Fun fact**: Chess enthusiast ♟️ | Martial Artist 🥋 | Philosophy lover
 
 ## 🛠️ Tech Stack
 
