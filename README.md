@@ -2,8 +2,8 @@
   <h1>Hi there, I'm <a href="https://abdulrasheedtalal.netlify.app" target="_blank">M. Abdul-Rasheed Talal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   <h3>Frontend Developer | DAE CIT Student | Open Source Enthusiast</h3>
-  
-  <p><img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">
+  <p>
     <a href="https://abdulrasheedtalal.netlify.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
