@@ -2,6 +2,7 @@
   <h1>Hi there, I'm <a href="https://abdulrasheedtalal.netlify.app" target="_blank">M. Abdul-Rasheed Talal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   <h3>Frontend Developer | DAE CIT Student | Open Source Enthusiast</h3>
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   <p>
     <a href="https://abdulrasheedtalal.netlify.app">
@@ -93,5 +94,4 @@ I am a **CIT student** with a strong foundation in web development and programmi
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
