@@ -19,7 +19,7 @@
 
 
 </div>
-<img style="display: block; margin: 0 auto;" src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img style="display: block; margin: 0 auto; width:25%" src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <br/>
 
 ## 👨‍💻 About Me
