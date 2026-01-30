@@ -70,7 +70,6 @@ I am a **CIT student** with a strong foundation in web development and programmi
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rasheed-Talal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rasheed-Talal&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rasheed-Talal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
 </div>
 
 <br/>
