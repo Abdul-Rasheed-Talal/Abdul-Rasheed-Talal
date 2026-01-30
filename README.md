@@ -3,9 +3,12 @@
   
   <h3>Frontend Developer | DAE CIT Student | Open Source Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">  
-  
-  <p>  
+
+
+
+
     
+  <p>  
     <a href="https://abdulrasheedtalal.netlify.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
