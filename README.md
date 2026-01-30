@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   <h1>Hi there, I'm <a href="https://abdulrasheedtalal.netlify.app" target="_blank">M. Abdul-Rasheed Talal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   <h3>Frontend Developer | DAE CIT Student | Open Source Enthusiast</h3>
