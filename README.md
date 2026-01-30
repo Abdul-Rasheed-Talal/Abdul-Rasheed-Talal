@@ -2,7 +2,6 @@
   <h1>Hi there, I'm <a href="https://abdulrasheedtalal.netlify.app" target="_blank">M. Abdul-Rasheed Talal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   <h3>Frontend Developer | DAE CIT Student | Open Source Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   <p>
     <a href="https://abdulrasheedtalal.netlify.app">
@@ -18,8 +17,9 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=520&height=50&color=00C2FF&lines=Building+Scalable+Web+Solutions;Crafting+Digital+Experiences;Always+Learning+%26+Creating;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
-</div>
 
+</div>
+<img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <br/>
 
 ## 👨‍💻 About Me
