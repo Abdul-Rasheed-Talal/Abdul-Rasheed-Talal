@@ -15,7 +15,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=520&height=50&color=00C2FF&lines=Building+Scalable+Web+Solutions;Crafting+Digital+Experiences;Always+Learning+%26+Creating;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img style="text-align:center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=520&height=50&color=00C2FF&lines=Building+Scalable+Web+Solutions;Crafting+Digital+Experiences;Always+Learning+%26+Creating;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 
 </div>
