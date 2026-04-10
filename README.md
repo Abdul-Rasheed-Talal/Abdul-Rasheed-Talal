@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://abdulrasheedtalal.netlify.app" target="_blank">M. Abdul-Rasheed Talal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
-  <h3>Frontend Developer | DAE CIT Student | Open Source Enthusiast</h3>
+  <h3>MERN Developer | DAE CIT Student | Open Source Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">  
 
 
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **CIT student** with a strong foundation in web development and programming. I build **dynamic, responsive web applications** using **HTML, CSS, JavaScript, and Bootstrap**, along with console-based systems in **C++**. I am passionate about solving problems and continuously learning new technologies to create meaningful digital solutions.
+I am a **CIT student** with a strong foundation in web development and programming. I build **dynamic, responsive web applications** using **HTML, CSS, JavaScript, and Bootstrap , React.js , node js , express js , mongodb , ODM like mongoose**, along with console-based systems in **C++**. I am passionate about solving problems and continuously learning new technologies to create meaningful digital solutions.
 
 - ☕ **Tea Enthusiast** | 🥋 **Problem Solver** | 🐧 **Open Source Learner**
 - 🔭 **Currently working on**: Advanced React.js projects
