@@ -3,11 +3,8 @@
   
   <h3>MERN Developer | DAE CIT Student | Open Source Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">
-  [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAbdul-Rasheed-Talal&style=for-the-badge)](https://rankistan.dev/#Abdul-Rasheed-Talal)
 
-
-<p>  
-</p>
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAbdul-Rasheed-Talal&style=for-the-badge)](https://rankistan.dev/#Abdul-Rasheed-Talal)
     
   <p>  
     <a href="https://abdulrasheedtalal.netlify.app">
