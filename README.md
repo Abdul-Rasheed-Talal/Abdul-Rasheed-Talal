@@ -2,8 +2,8 @@
   <h1>Hi there, I'm <a href="https://abdulrasheedtalal.netlify.app" target="_blank">M. Abdul-Rasheed Talal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   <h3>MERN Developer | DAE CIT Student | Open Source Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">  
-
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Rasheed-Talal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" alt="Profile Views)" alt="Description">
+  [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAbdul-Rasheed-Talal&style=for-the-badge)](https://rankistan.dev/#Abdul-Rasheed-Talal)
 
 
 <p>  
@@ -68,17 +68,6 @@ I am a **CIT student** with a strong foundation in web development and programmi
 - 🏫 **Matriculation (Science)** | *Govt. Model High School, Bhakkar* (2022 - 2024)
   - Achieved **95%** marks.
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rasheed-Talal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rasheed-Talal&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
-  <br/>
-</div>
-
-<br/>
 
 ## 🌐 Let's Connect
 
